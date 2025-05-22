@@ -3,9 +3,6 @@
 ## Tool and Languages
 
 > - XAMPP Control Panel
-> - HTML
-> - CSS
-> - JavaSript
 > - PHP
 > - MySQL
 
